@@ -19,6 +19,7 @@ class Card:
         self.tags = None
         self.back = None
         self.pair = None
+        self.test = None
     
     def Abilities(self, card):
         ability = []
